@@ -8,6 +8,10 @@ Two files "coffeeOrdersData.xlsx" and "coffeeOrdersProject.xlsx" containing deta
 1. What is the total sales over time?
 2. How is sales distributed over countries?
 3. Who are the top customers?
-4. What are the coffee types?
+4. What coffee type sells the most?
 
 ### Results and Findings
+1. The total sales have steadlily increased over the years, except in 2020, probably due to the pandemic. The coffee sales peaked between September 2021 and January 2022.
+2. The most sales were made in the USA, while Ireland has the least sales.
+3. Of the four coffee types, the Robusta is the least sold coffee type.
+   
