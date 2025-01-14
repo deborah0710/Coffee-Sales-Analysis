@@ -1,6 +1,9 @@
 ### Project Overview
 This data analysis project aims to provide insights into coffee sales over time. 
 
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/b92326f7-77e0-4a00-9dcb-f1e4a9229de7)
+
+
 ### Data Sources and Tools
 Two files "coffeeOrdersData.xlsx" and "coffeeOrdersProject.xlsx" containing detailed information about coffee sales,orders and the customers were provided for this analysis. This project was carried out using Excel.
 
